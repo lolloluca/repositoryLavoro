@@ -10,6 +10,7 @@ public class Test {
 		System.out.println("Terzo rilascio Daniel");
 		System.out.println("Quarto rilascio Daniel");
 		System.out.println("Quinto rilascio Daniel");
+		System.out.println("sesto rilascio Daniel");
 	}
 
 }
