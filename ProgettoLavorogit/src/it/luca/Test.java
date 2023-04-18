@@ -12,7 +12,8 @@ public class Test {
 		System.out.println("Quarto rilascio Daniel");
 		System.out.println("Quinto rilascio Daniel");
 		System.out.println("sesto rilascio Daniel");
-        int c=3;
+		int a=3;
+
 	}
 
 }
