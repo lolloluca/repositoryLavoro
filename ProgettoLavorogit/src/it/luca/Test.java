@@ -13,6 +13,7 @@ public class Test {
 		System.out.println("Quinto rilascio Daniel");
 		System.out.println("sesto rilascio Daniel");
 		int a=3;
+		int b=5;
 
 	}
 
